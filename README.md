@@ -1,8 +1,8 @@
 ### Simple Form using Firebase and React
 
-My practice repo for using Firebase as Database with React Framework
-
 #
+
+My practice repo for using Firebase as Database with React Framework
 
 Tech stack used:
 
@@ -10,3 +10,5 @@ Tech stack used:
 -   HTML
 -   Tailwind CSS
 -   Firebase
+
+#
